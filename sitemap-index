@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.tvpoke.cz/sitemap-static.xml</loc> //url na subsitemapu.
+    <lastmod>2023-09-25T06:43:59+00:00</lastmod> //lastmod s novou url v subsitemapě aktualizujeme nebo klidně jednou denně staticky. Více info k formátu lastomode zde: https://www.sitemaps.org/protocol.html
+  </sitemap>
+  <sitemap>
+    <loc>https://www.tvpoke.cz/sitemap-blog.xml</loc>
+    <lastmod>2023-09-25T06:43:59+00:00</lastmod> //lastmod s novou url v subsitemapě aktualizujeme nebo klidně jednou denně staticky. Více info k formátu lastomode zde: https://www.sitemaps.org/protocol.html
+  </sitemap>
+  <sitemap>
+    <loc>https://www.tvpoke.cz/sitemap-pages.xml</loc>
+    <lastmod>2023-09-25T06:43:59+00:00</lastmod> //lastmod s novou url v subsitemapě aktualizujeme nebo klidně jednou denně staticky. Více info k formátu lastomode zde: https://www.sitemaps.org/protocol.html
+  </sitemap>
+  <sitemap>
+    <loc>https://www.tvpoke.cz/sitemap-tvprogram.xml</loc>
+    <lastmod>2023-09-25T06:43:59+00:00</lastmod> //lastmod s novou url v subsitemapě aktualizujeme nebo klidně jednou denně staticky. Více info k formátu lastomode zde: https://www.sitemaps.org/protocol.html
+  </sitemap>
+  <sitemap>
+    <loc>https://www.tvpoke.cz/sitemap-channels.xml</loc>
+    <lastmod>2023-09-25T06:43:59+00:00</lastmod> //lastmod s novou url v subsitemapě aktualizujeme nebo klidně jednou denně staticky. Více info k formátu lastomode zde: https://www.sitemaps.org/protocol.html
+  </sitemap>
+</sitemapindex>
